@@ -13,8 +13,6 @@
 7. npm install cordova-sqlite-storage
 8. npm install @ionic-native/sqlite
 9. npm install @ionic/storage
-
-
-
-
-ionic cap sync
+10. ionic cap sync
+11. Add `IonicStorageModule.forRoot()` adn `HttpClientModule` import in app.module.ts
+12. Add `Network` provider in app.module.ts
