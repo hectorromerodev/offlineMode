@@ -1,0 +1,7 @@
+{
+  "name": "offlineMode",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
